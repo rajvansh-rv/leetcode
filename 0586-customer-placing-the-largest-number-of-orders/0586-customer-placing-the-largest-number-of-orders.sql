@@ -1,4 +1,4 @@
-# Write your MySQL query statement below
+# Write your MySQL query
 SELECT
     customer_number
 FROM Orders
