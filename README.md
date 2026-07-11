@@ -35,6 +35,7 @@ Here i will solve leetcode quetions
 | [0069-sqrtx](https://github.com/rajvansh-rv/leetcode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/rajvansh-rv/leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/rajvansh-rv/leetcode/tree/master/0258-add-digits) |
+| [0292-nim-game](https://github.com/rajvansh-rv/leetcode/tree/master/0292-nim-game) |
 ## Simulation
 |  |
 | ------- |
@@ -55,4 +56,12 @@ Here i will solve leetcode quetions
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/rajvansh-rv/leetcode/tree/master/0069-sqrtx) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/rajvansh-rv/leetcode/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/rajvansh-rv/leetcode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
