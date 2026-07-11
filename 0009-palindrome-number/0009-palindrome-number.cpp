@@ -10,7 +10,7 @@ public:
             if(ans>INT_MAX/10)
             return 0 ;
             ans = ans*10+rem;
-        }
+        };
         if (ans == x)
         return 1 ;
         else 
