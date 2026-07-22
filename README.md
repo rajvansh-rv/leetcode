@@ -32,6 +32,7 @@ Here i will solve leetcode quetions
 | ------- |
 | [0007-reverse-integer](https://github.com/rajvansh-rv/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/rajvansh-rv/leetcode/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/rajvansh-rv/leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/rajvansh-rv/leetcode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/rajvansh-rv/leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/rajvansh-rv/leetcode/tree/master/0258-add-digits) |
@@ -80,6 +81,7 @@ Here i will solve leetcode quetions
 | [0033-search-in-rotated-sorted-array](https://github.com/rajvansh-rv/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rajvansh-rv/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/rajvansh-rv/leetcode/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/rajvansh-rv/leetcode/tree/master/0066-plus-one) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rajvansh-rv/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/rajvansh-rv/leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rajvansh-rv/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
