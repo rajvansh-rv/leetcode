@@ -37,6 +37,7 @@ Here i will solve leetcode quetions
 | [0231-power-of-two](https://github.com/rajvansh-rv/leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/rajvansh-rv/leetcode/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/rajvansh-rv/leetcode/tree/master/0292-nim-game) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rajvansh-rv/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Simulation
 |  |
 | ------- |
@@ -99,8 +100,13 @@ Here i will solve leetcode quetions
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/rajvansh-rv/leetcode/tree/master/0020-valid-parentheses) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rajvansh-rv/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/rajvansh-rv/leetcode/tree/master/0020-valid-parentheses) |
+## Greedy
+|  |
+| ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rajvansh-rv/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 <!---LeetCode Topics End-->
