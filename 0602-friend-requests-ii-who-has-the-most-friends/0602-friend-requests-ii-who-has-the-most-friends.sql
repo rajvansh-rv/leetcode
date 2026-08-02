@@ -5,7 +5,6 @@ FROM (
     FROM RequestAccepted
 
     UNION ALL
-
     SELECT accepter_id AS id
     FROM RequestAccepted
 ) AS friends
