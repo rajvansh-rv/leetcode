@@ -91,6 +91,7 @@ Here i will solve leetcode quetions
 | [0033-search-in-rotated-sorted-array](https://github.com/rajvansh-rv/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rajvansh-rv/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/rajvansh-rv/leetcode/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/rajvansh-rv/leetcode/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/rajvansh-rv/leetcode/tree/master/0066-plus-one) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rajvansh-rv/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/rajvansh-rv/leetcode/tree/master/0704-binary-search) |
@@ -103,6 +104,7 @@ Here i will solve leetcode quetions
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rajvansh-rv/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/rajvansh-rv/leetcode/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/rajvansh-rv/leetcode/tree/master/0042-trapping-rain-water) |
 ## String
 |  |
 | ------- |
@@ -112,6 +114,7 @@ Here i will solve leetcode quetions
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/rajvansh-rv/leetcode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/rajvansh-rv/leetcode/tree/master/0042-trapping-rain-water) |
 ## Greedy
 |  |
 | ------- |
@@ -120,4 +123,12 @@ Here i will solve leetcode quetions
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/rajvansh-rv/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/rajvansh-rv/leetcode/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/rajvansh-rv/leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
