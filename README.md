@@ -46,6 +46,7 @@ Here i will solve leetcode quetions
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/rajvansh-rv/leetcode/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/rajvansh-rv/leetcode/tree/master/0258-add-digits) |
 ## Number Theory
 |  |
@@ -93,6 +94,7 @@ Here i will solve leetcode quetions
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rajvansh-rv/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/rajvansh-rv/leetcode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/rajvansh-rv/leetcode/tree/master/0042-trapping-rain-water) |
+| [0054-spiral-matrix](https://github.com/rajvansh-rv/leetcode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/rajvansh-rv/leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/rajvansh-rv/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rajvansh-rv/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -136,5 +138,6 @@ Here i will solve leetcode quetions
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/rajvansh-rv/leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/rajvansh-rv/leetcode/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
