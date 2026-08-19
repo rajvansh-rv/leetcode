@@ -20,6 +20,7 @@ public:
                 ans.push_back(matrix[i][right]);
             right--;
 
+
             // Right → Left
             if (top <= bottom) {
                 for (int j = right; j >= left; j--)
