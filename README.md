@@ -117,6 +117,7 @@ Here i will solve leetcode quetions
 | ------- |
 | [0020-valid-parentheses](https://github.com/rajvansh-rv/leetcode/tree/master/0020-valid-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/rajvansh-rv/leetcode/tree/master/1108-defanging-an-ip-address) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/rajvansh-rv/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rajvansh-rv/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Stack
 |  |
@@ -150,6 +151,7 @@ Here i will solve leetcode quetions
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/rajvansh-rv/leetcode/tree/master/0169-majority-element) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/rajvansh-rv/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Sorting
 |  |
 | ------- |
