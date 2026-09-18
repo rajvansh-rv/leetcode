@@ -120,6 +120,7 @@ Here i will solve leetcode quetions
 | [1108-defanging-an-ip-address](https://github.com/rajvansh-rv/leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/rajvansh-rv/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1859-sorting-the-sentence](https://github.com/rajvansh-rv/leetcode/tree/master/1859-sorting-the-sentence) |
+| [2785-sort-vowels-in-a-string](https://github.com/rajvansh-rv/leetcode/tree/master/2785-sort-vowels-in-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rajvansh-rv/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Stack
 |  |
@@ -161,6 +162,7 @@ Here i will solve leetcode quetions
 | ------- |
 | [0169-majority-element](https://github.com/rajvansh-rv/leetcode/tree/master/0169-majority-element) |
 | [1859-sorting-the-sentence](https://github.com/rajvansh-rv/leetcode/tree/master/1859-sorting-the-sentence) |
+| [2785-sort-vowels-in-a-string](https://github.com/rajvansh-rv/leetcode/tree/master/2785-sort-vowels-in-a-string) |
 ## Counting
 |  |
 | ------- |
