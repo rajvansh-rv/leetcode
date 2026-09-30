@@ -44,6 +44,7 @@ Here i will solve leetcode quetions
 | [0258-add-digits](https://github.com/rajvansh-rv/leetcode/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/rajvansh-rv/leetcode/tree/master/0292-nim-game) |
 | [0415-add-strings](https://github.com/rajvansh-rv/leetcode/tree/master/0415-add-strings) |
+| [2965-find-missing-and-repeated-values](https://github.com/rajvansh-rv/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rajvansh-rv/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Simulation
 |  |
@@ -109,6 +110,7 @@ Here i will solve leetcode quetions
 | [0875-koko-eating-bananas](https://github.com/rajvansh-rv/leetcode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/rajvansh-rv/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1539-kth-missing-positive-number](https://github.com/rajvansh-rv/leetcode/tree/master/1539-kth-missing-positive-number) |
+| [2965-find-missing-and-repeated-values](https://github.com/rajvansh-rv/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
 | ------- |
@@ -155,6 +157,7 @@ Here i will solve leetcode quetions
 | [0048-rotate-image](https://github.com/rajvansh-rv/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/rajvansh-rv/leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/rajvansh-rv/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [2965-find-missing-and-repeated-values](https://github.com/rajvansh-rv/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
 | ------- |
@@ -162,6 +165,7 @@ Here i will solve leetcode quetions
 | [0169-majority-element](https://github.com/rajvansh-rv/leetcode/tree/master/0169-majority-element) |
 | [0409-longest-palindrome](https://github.com/rajvansh-rv/leetcode/tree/master/0409-longest-palindrome) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/rajvansh-rv/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2965-find-missing-and-repeated-values](https://github.com/rajvansh-rv/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Sorting
 |  |
 | ------- |
