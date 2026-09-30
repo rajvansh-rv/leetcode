@@ -90,6 +90,7 @@ Here i will solve leetcode quetions
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/rajvansh-rv/leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/rajvansh-rv/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rajvansh-rv/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/rajvansh-rv/leetcode/tree/master/0027-remove-element) |
@@ -157,6 +158,7 @@ Here i will solve leetcode quetions
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/rajvansh-rv/leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/rajvansh-rv/leetcode/tree/master/0169-majority-element) |
 | [0409-longest-palindrome](https://github.com/rajvansh-rv/leetcode/tree/master/0409-longest-palindrome) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/rajvansh-rv/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
