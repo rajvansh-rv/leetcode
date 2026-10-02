@@ -109,6 +109,7 @@ Here i will solve leetcode quetions
 | [0852-peak-index-in-a-mountain-array](https://github.com/rajvansh-rv/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/rajvansh-rv/leetcode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/rajvansh-rv/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rajvansh-rv/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1539-kth-missing-positive-number](https://github.com/rajvansh-rv/leetcode/tree/master/1539-kth-missing-positive-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/rajvansh-rv/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
@@ -170,6 +171,7 @@ Here i will solve leetcode quetions
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/rajvansh-rv/leetcode/tree/master/0169-majority-element) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rajvansh-rv/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1859-sorting-the-sentence](https://github.com/rajvansh-rv/leetcode/tree/master/1859-sorting-the-sentence) |
 | [2785-sort-vowels-in-a-string](https://github.com/rajvansh-rv/leetcode/tree/master/2785-sort-vowels-in-a-string) |
 ## Counting
@@ -184,4 +186,8 @@ Here i will solve leetcode quetions
 |  |
 | ------- |
 | [1859-sorting-the-sentence](https://github.com/rajvansh-rv/leetcode/tree/master/1859-sorting-the-sentence) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rajvansh-rv/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
