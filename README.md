@@ -93,6 +93,7 @@ Here i will solve leetcode quetions
 | ------- |
 | [0001-two-sum](https://github.com/rajvansh-rv/leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/rajvansh-rv/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0016-3sum-closest](https://github.com/rajvansh-rv/leetcode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rajvansh-rv/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/rajvansh-rv/leetcode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/rajvansh-rv/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
@@ -115,6 +116,7 @@ Here i will solve leetcode quetions
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/rajvansh-rv/leetcode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rajvansh-rv/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/rajvansh-rv/leetcode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/rajvansh-rv/leetcode/tree/master/0042-trapping-rain-water) |
@@ -170,6 +172,7 @@ Here i will solve leetcode quetions
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/rajvansh-rv/leetcode/tree/master/0016-3sum-closest) |
 | [0169-majority-element](https://github.com/rajvansh-rv/leetcode/tree/master/0169-majority-element) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rajvansh-rv/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1859-sorting-the-sentence](https://github.com/rajvansh-rv/leetcode/tree/master/1859-sorting-the-sentence) |
