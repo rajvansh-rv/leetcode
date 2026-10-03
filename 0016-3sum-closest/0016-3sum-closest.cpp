@@ -5,7 +5,6 @@ public:
 
         int n = nums.size();
         int closest = nums[0] + nums[1] + nums[2];
-
         for (int i = 0; i < n - 2; i++) {
 
             int left = i + 1;
@@ -18,13 +17,11 @@ public:
                 // Exact answer
                 if (sum == target)
                     return sum;
-
-                // Update closest answer
+         // Update closest answer
                 if (abs(sum - target) < abs(closest - target)) {
                     closest = sum;
                 }
-
-                // Move pointers
+    // Move pointers
                 if (sum < target) {
                     left++;
                 } else {
@@ -32,7 +29,6 @@ public:
                 }
             }
         }
-
         return closest;
     }
 };
