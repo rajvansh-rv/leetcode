@@ -102,6 +102,7 @@ Here i will solve leetcode quetions
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rajvansh-rv/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/rajvansh-rv/leetcode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/rajvansh-rv/leetcode/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/rajvansh-rv/leetcode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/rajvansh-rv/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/rajvansh-rv/leetcode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/rajvansh-rv/leetcode/tree/master/0066-plus-one) |
@@ -200,4 +201,8 @@ Here i will solve leetcode quetions
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/rajvansh-rv/leetcode/tree/master/0509-fibonacci-number) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/rajvansh-rv/leetcode/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
