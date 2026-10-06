@@ -44,6 +44,7 @@ Here i will solve leetcode quetions
 | [0258-add-digits](https://github.com/rajvansh-rv/leetcode/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/rajvansh-rv/leetcode/tree/master/0292-nim-game) |
 | [0415-add-strings](https://github.com/rajvansh-rv/leetcode/tree/master/0415-add-strings) |
+| [0509-fibonacci-number](https://github.com/rajvansh-rv/leetcode/tree/master/0509-fibonacci-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/rajvansh-rv/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rajvansh-rv/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Simulation
@@ -65,6 +66,7 @@ Here i will solve leetcode quetions
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/rajvansh-rv/leetcode/tree/master/0231-power-of-two) |
+| [0509-fibonacci-number](https://github.com/rajvansh-rv/leetcode/tree/master/0509-fibonacci-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -150,6 +152,7 @@ Here i will solve leetcode quetions
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/rajvansh-rv/leetcode/tree/master/0042-trapping-rain-water) |
+| [0509-fibonacci-number](https://github.com/rajvansh-rv/leetcode/tree/master/0509-fibonacci-number) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -193,4 +196,8 @@ Here i will solve leetcode quetions
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rajvansh-rv/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/rajvansh-rv/leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
