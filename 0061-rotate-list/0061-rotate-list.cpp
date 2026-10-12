@@ -26,8 +26,7 @@ public:
 
         if (k == 0)
             return head;
-
-        tail->next = head;  // Make circular
+        tail->next = head;
 
         int steps = len - k;
         ListNode* newTail = tail;
@@ -38,7 +37,6 @@ public:
 
         ListNode* newHead = newTail->next;
         newTail->next = nullptr;
-
         return newHead;
     }
 };
