@@ -152,6 +152,7 @@ Here i will solve leetcode quetions
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/rajvansh-rv/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/rajvansh-rv/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0169-majority-element](https://github.com/rajvansh-rv/leetcode/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
@@ -200,6 +201,7 @@ Here i will solve leetcode quetions
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/rajvansh-rv/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rajvansh-rv/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Memoization
 |  |
@@ -213,7 +215,16 @@ Here i will solve leetcode quetions
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/rajvansh-rv/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0023-merge-k-sorted-lists](https://github.com/rajvansh-rv/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/rajvansh-rv/leetcode/tree/master/0061-rotate-list) |
 | [0206-reverse-linked-list](https://github.com/rajvansh-rv/leetcode/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/rajvansh-rv/leetcode/tree/master/0876-middle-of-the-linked-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/rajvansh-rv/leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/rajvansh-rv/leetcode/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
