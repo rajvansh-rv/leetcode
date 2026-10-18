@@ -128,6 +128,7 @@ Here i will solve leetcode quetions
 | [0027-remove-element](https://github.com/rajvansh-rv/leetcode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/rajvansh-rv/leetcode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/rajvansh-rv/leetcode/tree/master/0061-rotate-list) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/rajvansh-rv/leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/rajvansh-rv/leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## String
 |  |
@@ -221,6 +222,7 @@ Here i will solve leetcode quetions
 | [0023-merge-k-sorted-lists](https://github.com/rajvansh-rv/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/rajvansh-rv/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/rajvansh-rv/leetcode/tree/master/0061-rotate-list) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/rajvansh-rv/leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0206-reverse-linked-list](https://github.com/rajvansh-rv/leetcode/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/rajvansh-rv/leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Merge Sort
