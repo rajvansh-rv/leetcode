@@ -70,6 +70,7 @@ Here i will solve leetcode quetions
 | [0203-remove-linked-list-elements](https://github.com/rajvansh-rv/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/rajvansh-rv/leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/rajvansh-rv/leetcode/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/rajvansh-rv/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/rajvansh-rv/leetcode/tree/master/0509-fibonacci-number) |
 ## Binary Search
 |  |
@@ -134,6 +135,7 @@ Here i will solve leetcode quetions
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/rajvansh-rv/leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/rajvansh-rv/leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/rajvansh-rv/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0234-palindrome-linked-list](https://github.com/rajvansh-rv/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/rajvansh-rv/leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## String
 |  |
@@ -151,6 +153,7 @@ Here i will solve leetcode quetions
 | ------- |
 | [0020-valid-parentheses](https://github.com/rajvansh-rv/leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/rajvansh-rv/leetcode/tree/master/0042-trapping-rain-water) |
+| [0234-palindrome-linked-list](https://github.com/rajvansh-rv/leetcode/tree/master/0234-palindrome-linked-list) |
 ## Greedy
 |  |
 | ------- |
@@ -234,6 +237,7 @@ Here i will solve leetcode quetions
 | [0160-intersection-of-two-linked-lists](https://github.com/rajvansh-rv/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/rajvansh-rv/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/rajvansh-rv/leetcode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/rajvansh-rv/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/rajvansh-rv/leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Merge Sort
 |  |
