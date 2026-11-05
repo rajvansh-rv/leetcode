@@ -118,6 +118,7 @@ Here i will solve leetcode quetions
 | [0169-majority-element](https://github.com/rajvansh-rv/leetcode/tree/master/0169-majority-element) |
 | [0704-binary-search](https://github.com/rajvansh-rv/leetcode/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/rajvansh-rv/leetcode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/rajvansh-rv/leetcode/tree/master/0706-design-hashmap) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rajvansh-rv/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/rajvansh-rv/leetcode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/rajvansh-rv/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -191,6 +192,7 @@ Here i will solve leetcode quetions
 | [0169-majority-element](https://github.com/rajvansh-rv/leetcode/tree/master/0169-majority-element) |
 | [0409-longest-palindrome](https://github.com/rajvansh-rv/leetcode/tree/master/0409-longest-palindrome) |
 | [0705-design-hashset](https://github.com/rajvansh-rv/leetcode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/rajvansh-rv/leetcode/tree/master/0706-design-hashmap) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/rajvansh-rv/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2965-find-missing-and-repeated-values](https://github.com/rajvansh-rv/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Sorting
@@ -243,6 +245,7 @@ Here i will solve leetcode quetions
 | [0206-reverse-linked-list](https://github.com/rajvansh-rv/leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/rajvansh-rv/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0705-design-hashset](https://github.com/rajvansh-rv/leetcode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/rajvansh-rv/leetcode/tree/master/0706-design-hashmap) |
 | [0876-middle-of-the-linked-list](https://github.com/rajvansh-rv/leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Merge Sort
 |  |
@@ -260,8 +263,10 @@ Here i will solve leetcode quetions
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/rajvansh-rv/leetcode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/rajvansh-rv/leetcode/tree/master/0706-design-hashmap) |
 ## Hash Function
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/rajvansh-rv/leetcode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/rajvansh-rv/leetcode/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
