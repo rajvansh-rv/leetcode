@@ -45,6 +45,7 @@ Here i will solve leetcode quetions
 | [0292-nim-game](https://github.com/rajvansh-rv/leetcode/tree/master/0292-nim-game) |
 | [0415-add-strings](https://github.com/rajvansh-rv/leetcode/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/rajvansh-rv/leetcode/tree/master/0509-fibonacci-number) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/rajvansh-rv/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2965-find-missing-and-repeated-values](https://github.com/rajvansh-rv/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rajvansh-rv/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Simulation
@@ -251,6 +252,7 @@ Here i will solve leetcode quetions
 | [0705-design-hashset](https://github.com/rajvansh-rv/leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/rajvansh-rv/leetcode/tree/master/0706-design-hashmap) |
 | [0876-middle-of-the-linked-list](https://github.com/rajvansh-rv/leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/rajvansh-rv/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Merge Sort
 |  |
 | ------- |
