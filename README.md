@@ -54,6 +54,7 @@ Here i will solve leetcode quetions
 | [0054-spiral-matrix](https://github.com/rajvansh-rv/leetcode/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/rajvansh-rv/leetcode/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/rajvansh-rv/leetcode/tree/master/0415-add-strings) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/rajvansh-rv/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Number Theory
 |  |
 | ------- |
@@ -127,6 +128,7 @@ Here i will solve leetcode quetions
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rajvansh-rv/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1539-kth-missing-positive-number](https://github.com/rajvansh-rv/leetcode/tree/master/1539-kth-missing-positive-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/rajvansh-rv/leetcode/tree/master/2965-find-missing-and-repeated-values) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/rajvansh-rv/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -198,6 +200,7 @@ Here i will solve leetcode quetions
 | [0706-design-hashmap](https://github.com/rajvansh-rv/leetcode/tree/master/0706-design-hashmap) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/rajvansh-rv/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2965-find-missing-and-repeated-values](https://github.com/rajvansh-rv/leetcode/tree/master/2965-find-missing-and-repeated-values) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/rajvansh-rv/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Sorting
 |  |
 | ------- |
@@ -223,6 +226,7 @@ Here i will solve leetcode quetions
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/rajvansh-rv/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rajvansh-rv/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/rajvansh-rv/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Memoization
 |  |
 | ------- |
@@ -253,6 +257,7 @@ Here i will solve leetcode quetions
 | [0706-design-hashmap](https://github.com/rajvansh-rv/leetcode/tree/master/0706-design-hashmap) |
 | [0876-middle-of-the-linked-list](https://github.com/rajvansh-rv/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/rajvansh-rv/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/rajvansh-rv/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Merge Sort
 |  |
 | ------- |
@@ -275,4 +280,12 @@ Here i will solve leetcode quetions
 | ------- |
 | [0705-design-hashset](https://github.com/rajvansh-rv/leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/rajvansh-rv/leetcode/tree/master/0706-design-hashmap) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/rajvansh-rv/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Ordered Set
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/rajvansh-rv/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 <!---LeetCode Topics End-->
