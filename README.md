@@ -111,6 +111,7 @@ Here i will solve leetcode quetions
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rajvansh-rv/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/rajvansh-rv/leetcode/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/rajvansh-rv/leetcode/tree/master/0037-sudoku-solver) |
+| [0040-combination-sum-ii](https://github.com/rajvansh-rv/leetcode/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/rajvansh-rv/leetcode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/rajvansh-rv/leetcode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/rajvansh-rv/leetcode/tree/master/0048-rotate-image) |
@@ -238,6 +239,7 @@ Here i will solve leetcode quetions
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/rajvansh-rv/leetcode/tree/master/0037-sudoku-solver) |
+| [0040-combination-sum-ii](https://github.com/rajvansh-rv/leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/rajvansh-rv/leetcode/tree/master/0046-permutations) |
 ## Linked List
 |  |
