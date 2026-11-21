@@ -110,6 +110,7 @@ Here i will solve leetcode quetions
 | [0033-search-in-rotated-sorted-array](https://github.com/rajvansh-rv/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rajvansh-rv/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/rajvansh-rv/leetcode/tree/master/0035-search-insert-position) |
+| [0037-sudoku-solver](https://github.com/rajvansh-rv/leetcode/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/rajvansh-rv/leetcode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/rajvansh-rv/leetcode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/rajvansh-rv/leetcode/tree/master/0048-rotate-image) |
@@ -184,6 +185,7 @@ Here i will solve leetcode quetions
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/rajvansh-rv/leetcode/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/rajvansh-rv/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/rajvansh-rv/leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/rajvansh-rv/leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -192,6 +194,7 @@ Here i will solve leetcode quetions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rajvansh-rv/leetcode/tree/master/0001-two-sum) |
+| [0037-sudoku-solver](https://github.com/rajvansh-rv/leetcode/tree/master/0037-sudoku-solver) |
 | [0141-linked-list-cycle](https://github.com/rajvansh-rv/leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/rajvansh-rv/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/rajvansh-rv/leetcode/tree/master/0169-majority-element) |
@@ -234,6 +237,7 @@ Here i will solve leetcode quetions
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/rajvansh-rv/leetcode/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/rajvansh-rv/leetcode/tree/master/0046-permutations) |
 ## Linked List
 |  |
@@ -288,4 +292,12 @@ Here i will solve leetcode quetions
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/rajvansh-rv/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/rajvansh-rv/leetcode/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/rajvansh-rv/leetcode/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
