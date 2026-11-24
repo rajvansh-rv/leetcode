@@ -115,6 +115,7 @@ Here i will solve leetcode quetions
 | [0040-combination-sum-ii](https://github.com/rajvansh-rv/leetcode/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/rajvansh-rv/leetcode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/rajvansh-rv/leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/rajvansh-rv/leetcode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/rajvansh-rv/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/rajvansh-rv/leetcode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/rajvansh-rv/leetcode/tree/master/0066-plus-one) |
@@ -212,6 +213,7 @@ Here i will solve leetcode quetions
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/rajvansh-rv/leetcode/tree/master/0016-3sum-closest) |
+| [0047-permutations-ii](https://github.com/rajvansh-rv/leetcode/tree/master/0047-permutations-ii) |
 | [0169-majority-element](https://github.com/rajvansh-rv/leetcode/tree/master/0169-majority-element) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rajvansh-rv/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1859-sorting-the-sentence](https://github.com/rajvansh-rv/leetcode/tree/master/1859-sorting-the-sentence) |
@@ -244,6 +246,7 @@ Here i will solve leetcode quetions
 | [0037-sudoku-solver](https://github.com/rajvansh-rv/leetcode/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/rajvansh-rv/leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/rajvansh-rv/leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/rajvansh-rv/leetcode/tree/master/0047-permutations-ii) |
 ## Linked List
 |  |
 | ------- |
